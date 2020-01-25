@@ -1,0 +1,117 @@
+{
+  "homeData" : {
+    "banner": {
+      "src" : "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "title" : "leaving room"
+    },
+    "cards": [
+      {
+        "title": "The portfolio",
+        "info": "Completed Projects",
+        "img": "https://images.unsplash.com/photo-1545176614-87b4ef35731f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80",
+        "alt": "sofa",
+        "link": "/portfolio"
+      },
+      {
+        "title": "The Projects",
+        "info": "Currently Developments",
+        "img": "https://images.unsplash.com/photo-1527266237111-a4989d028b4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI0MX0&auto=format&fit=crop&w=750&q=80",
+        "alt": "stairway",
+        "link": "/projects"
+      },
+      {
+        "title": "The property \n Avatar",
+        "info": "Educational Platform",
+        "img": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+        "alt": "library",
+        "link": "/platform"
+      }
+    ]
+  },
+  "portfolio-data" : [
+    {
+      "name" : "The pandora",
+      "address" : "38 Canada Street",
+      "description": "Uniterrupted flow for maximum use of space",
+      "services" : [
+        {
+          "name": "bed",
+          "description" : "5 Beds"
+        },
+        {
+          "name": "en-suite",
+          "description" : "1 En-suite"
+        },
+        {
+          "name": "bath",
+          "description" : "1 Bath"
+        }
+      ],
+      "link": "/properties/pandora",
+      "img": "https://www.rj-investments.co.uk/wp-content/uploads/2018/02/Pandora-970x440.jpg"
+    },
+    {
+      "name" : "The neytiri",
+      "address" : "43 Windle Street",
+      "description": "Cosy yet spacious feel creating your perfect hideout",
+      "services" : [
+        {
+          "name": "bed",
+          "description" : "5 Beds"
+        },
+        {
+          "name": "reception",
+          "description" : "2 Recep"
+        },
+        {
+          "name": "bath",
+          "description" : "2 Bath"
+        }
+      ],
+      "link": "/properties/neytiri",
+      "img": "https://www.rj-investments.co.uk/wp-content/uploads/2018/02/Neytiri-970x440.jpg"
+    },
+    {
+      "name" : "The centauri",
+      "address" : "3 Arpley Street",
+      "description": "Luxury living in the heart of the city",
+      "services" : [
+        {
+          "name": "bed",
+          "description" : "5 Beds"
+        },
+        {
+          "name": "en-suite",
+          "description" : "1 En-suite"
+        },
+        {
+          "name": "bath",
+          "description" : "1 Bath"
+        }
+      ],
+      "link": "/properties/cenrauri",
+      "img": "https://www.rj-investments.co.uk/wp-content/uploads/2018/02/Centauri-970x440.jpg"
+    },
+    {
+      "name" : "The na'vi",
+      "address" : "5 Milton Road East",
+      "description": "High ceilings and traditional features with a modern contemporary finish",
+      "services" : [
+        {
+          "name": "bed",
+          "description" : "6 Beds"
+        },
+        {
+          "name": "en-suite",
+          "description" : "6 En-suites"
+        },
+        {
+          "name": "bath",
+          "description" : "1 Bath"
+        }
+      ],
+      "link": "/properties/navi",
+      "img": "https://www.rj-investments.co.uk/wp-content/uploads/2018/02/Navi-970x440.jpg"
+    }
+  ]
+}
