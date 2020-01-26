@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/luxury-development/static/css/main.d2d8451d.chunk.css",
-    "main.js": "/luxury-development/static/js/main.81c3c861.chunk.js",
-    "main.js.map": "/luxury-development/static/js/main.81c3c861.chunk.js.map",
+    "main.js": "/luxury-development/static/js/main.242318b3.chunk.js",
+    "main.js.map": "/luxury-development/static/js/main.242318b3.chunk.js.map",
     "runtime-main.js": "/luxury-development/static/js/runtime-main.36fe52a1.js",
     "runtime-main.js.map": "/luxury-development/static/js/runtime-main.36fe52a1.js.map",
     "static/js/2.19beddf2.chunk.js": "/luxury-development/static/js/2.19beddf2.chunk.js",
     "static/js/2.19beddf2.chunk.js.map": "/luxury-development/static/js/2.19beddf2.chunk.js.map",
     "index.html": "/luxury-development/index.html",
-    "precache-manifest.40b7265e5cc42555dc88562cb21700fb.js": "/luxury-development/precache-manifest.40b7265e5cc42555dc88562cb21700fb.js",
+    "precache-manifest.681bac4177d3acea8ce030d34e81c4e8.js": "/luxury-development/precache-manifest.681bac4177d3acea8ce030d34e81c4e8.js",
     "service-worker.js": "/luxury-development/service-worker.js",
     "static/css/main.d2d8451d.chunk.css.map": "/luxury-development/static/css/main.d2d8451d.chunk.css.map",
     "static/js/2.19beddf2.chunk.js.LICENSE": "/luxury-development/static/js/2.19beddf2.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.36fe52a1.js",
     "static/js/2.19beddf2.chunk.js",
     "static/css/main.d2d8451d.chunk.css",
-    "static/js/main.81c3c861.chunk.js"
+    "static/js/main.242318b3.chunk.js"
   ]
 }
