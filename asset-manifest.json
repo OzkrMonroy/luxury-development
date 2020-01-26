@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/luxury-development/static/css/main.d2d8451d.chunk.css",
+    "main.js": "/luxury-development/static/js/main.d013b534.chunk.js",
+    "main.js.map": "/luxury-development/static/js/main.d013b534.chunk.js.map",
+    "runtime-main.js": "/luxury-development/static/js/runtime-main.36fe52a1.js",
+    "runtime-main.js.map": "/luxury-development/static/js/runtime-main.36fe52a1.js.map",
+    "static/js/2.19beddf2.chunk.js": "/luxury-development/static/js/2.19beddf2.chunk.js",
+    "static/js/2.19beddf2.chunk.js.map": "/luxury-development/static/js/2.19beddf2.chunk.js.map",
+    "index.html": "/luxury-development/index.html",
+    "precache-manifest.1abecbb8531ec4bc418b4f5c10ccb831.js": "/luxury-development/precache-manifest.1abecbb8531ec4bc418b4f5c10ccb831.js",
+    "service-worker.js": "/luxury-development/service-worker.js",
+    "static/css/main.d2d8451d.chunk.css.map": "/luxury-development/static/css/main.d2d8451d.chunk.css.map",
+    "static/js/2.19beddf2.chunk.js.LICENSE": "/luxury-development/static/js/2.19beddf2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36fe52a1.js",
+    "static/js/2.19beddf2.chunk.js",
+    "static/css/main.d2d8451d.chunk.css",
+    "static/js/main.d013b534.chunk.js"
+  ]
+}
